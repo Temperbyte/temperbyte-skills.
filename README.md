@@ -2,7 +2,7 @@
 
 # Temperbyte Skills
 
-Free Claude skills for real estate agents and fitness coaches. Each skill does one job you repeat every week, and each one is tested against plain Claude before it ships.
+Free Claude skills for real estate agents and fitness coaches. Each skill does one job you repeat every week. The lite versions here are cut down from full skills that were tested side by side against plain Claude.
 
 | Skill | What it does | Download |
 |---|---|---|
