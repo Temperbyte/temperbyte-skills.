@@ -1,15 +1,21 @@
+![Temperbyte](assets/banner.png)
+
 # Temperbyte Skills
 
-Free Claude skills for real estate agents and fitness coaches.
+Free Claude skills for real estate agents and fitness coaches. Each skill does one job you repeat every week, and each one is tested against plain Claude before it ships.
 
-| Skill | What it does |
-|---|---|
-| `listing-writer-lite` | Turns rough property notes into MLS remarks and headlines, with a fair housing language check |
-| `checkin-analyzer-lite` | Reviews a coaching client's weekly check-in with trend math, a hold/adjust decision and red flags |
+| Skill | What it does | Download |
+|---|---|---|
+| `listing-writer-lite` | Turns rough property notes into MLS remarks and headlines, with a fair housing language check | [listing-writer-lite.zip](dist/listing-writer-lite.zip?raw=true) |
+| `checkin-analyzer-lite` | Reviews a coaching client's weekly check-in with trend math, a hold/adjust decision and red flags | [checkin-analyzer-lite.zip](dist/checkin-analyzer-lite.zip?raw=true) |
 
-## How to use
+## How to install
 
-Each skill is a folder under `skills/` containing a `SKILL.md` file. Download the folder, zip it, and add it in Claude under Settings > Capabilities > Skills.
+1. Download the `.zip` file for the skill you want. Don't unzip it.
+2. In Claude, go to **Settings > Capabilities > Skills** and upload the file.
+3. Start a new chat and paste your notes or check-in. Claude uses the skill automatically.
+
+Requires a Claude plan that supports Skills. The source for each skill is in the [`skills/`](skills) folder.
 
 ## Full versions
 
@@ -25,6 +31,26 @@ The lite skills cover the core job. The full versions do the whole workflow:
 Or get both skills for your field: [Real Estate Kit](https://payhip.com/b/oAUZm) · [Coach Kit](https://payhip.com/b/BUi0r)
 
 All products: [payhip.com/Temperbyte](https://payhip.com/Temperbyte)
+
+## Examples
+
+Sample data, output shortened to fit.
+
+**Listing Writer**
+
+![Listing Writer example](assets/example-listing-writer.png)
+
+**Pricing Brief**
+
+![Pricing Brief example](assets/example-pricing-brief.png)
+
+**Check-in Analyzer**
+
+![Check-in Analyzer example](assets/example-checkin-analyzer.png)
+
+**Intake to Program**
+
+![Intake to Program example](assets/example-intake-to-program.png)
 
 ## License
 
