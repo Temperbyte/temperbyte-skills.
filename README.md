@@ -11,11 +11,21 @@ Free Claude skills for real estate agents and fitness coaches. Each skill does o
 
 ## How to install
 
-1. Download the `.zip` file for the skill you want. Don't unzip it.
-2. In Claude, go to **Settings > Capabilities > Skills** and upload the file.
-3. Start a new chat and paste your notes or check-in. Claude uses the skill automatically.
+**In the Claude app or claude.ai** (works on all plans, including Free):
 
-Requires a Claude plan that supports Skills. The source for each skill is in the [`skills/`](skills) folder.
+1. Download the `.zip` file for the skill you want. Don't unzip it.
+2. In Claude, go to **Settings > Capabilities** and turn on **Code execution and file creation**.
+3. Go to **Customize > Skills**, click **+**, then **Create skill > Upload a skill**, and upload the file. Make sure the skill is toggled on.
+4. Start a new chat and paste your notes or check-in. Claude uses the skill automatically. If it doesn't, start your message with the skill's name, for example `Use listing-writer-lite:`.
+
+**In Claude Code**, install both lite skills as a plugin:
+
+```
+/plugin marketplace add Temperbyte/temperbyte-skills.
+/plugin install temperbyte-lite@temperbyte
+```
+
+The source for each skill is in the [`skills/`](skills) folder.
 
 ## Full versions
 
@@ -25,10 +35,11 @@ The lite skills cover the core job. The full versions do the whole workflow:
 |---|---|
 | [Listing Writer](https://payhip.com/b/60TYy) | Website description, feature highlights, social caption, facts to verify |
 | [Pricing Brief](https://payhip.com/b/7mleY) | Comp math, list price range, confidence level, seller talking points |
+| [Seller Update](https://payhip.com/b/UXnhj) | Weekly showing numbers, buyer feedback patterns, a recommendation and a message to the seller |
 | [Check-in Analyzer](https://payhip.com/b/7gC9P) | Adherence and lift tracking, client questions, numbers table |
 | [Intake to Program](https://payhip.com/b/gVueK) | Safety screen and a 4-week starting program |
 
-Or get both skills for your field: [Real Estate Kit](https://payhip.com/b/oAUZm) · [Coach Kit](https://payhip.com/b/BUi0r)
+Or get two skills for your field in one download: [Real Estate Kit](https://payhip.com/b/oAUZm) (Listing Writer + Pricing Brief) · [Coach Kit](https://payhip.com/b/BUi0r) (Intake to Program + Check-in Analyzer)
 
 All products: [payhip.com/Temperbyte](https://payhip.com/Temperbyte)
 
@@ -44,6 +55,10 @@ Sample data, output shortened to fit.
 
 ![Pricing Brief example](assets/example-pricing-brief.png)
 
+**Seller Update**
+
+![Seller Update example](assets/example-seller-update.png)
+
 **Check-in Analyzer**
 
 ![Check-in Analyzer example](assets/example-checkin-analyzer.png)
@@ -51,6 +66,12 @@ Sample data, output shortened to fit.
 **Intake to Program**
 
 ![Intake to Program example](assets/example-intake-to-program.png)
+
+## Guides
+
+- [Fair Housing Words to Avoid in Real Estate Listings (and What to Write Instead)](https://payhip.com/Temperbyte/blog/news/fair-housing-words-to-avoid-in-real-estate-listings-and-what-to-write-instead)
+- [How to Price a Listing From Comps: The Median Price-Per-Square-Foot Method](https://payhip.com/Temperbyte/blog/news/how-to-price-a-listing-from-comps-the-median-price-per-square-foot-method)
+- [How to Read a Weekly Weigh-In Trend Without Overreacting](https://payhip.com/Temperbyte/blog/news/how-to-read-a-weekly-weigh-in-trend-without-overreacting)
 
 ## License
 
