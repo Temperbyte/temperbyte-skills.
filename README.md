@@ -72,6 +72,11 @@ Sample data, output shortened to fit.
 
 ![Intake to Program example](assets/example-intake-to-program.png)
 
+## Free calculators
+
+- [Escalation clause calculator](https://temperbyte.github.io/escalation-clause-calculator/): final price and seller net for every offer, including competing escalation clauses
+- [Weight trend calculator](https://temperbyte.github.io/weight-trend-calculator/): weekly averages and rate of change from daily weigh-ins
+
 ## Guides
 
 - [Fair Housing Words to Avoid in Real Estate Listings (and What to Write Instead)](https://payhip.com/Temperbyte/blog/news/fair-housing-words-to-avoid-in-real-estate-listings-and-what-to-write-instead)
