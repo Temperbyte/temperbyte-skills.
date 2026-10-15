@@ -36,6 +36,7 @@ The lite skills cover the core job. The full versions do the whole workflow:
 | [Listing Writer](https://payhip.com/b/60TYy) | Website description, feature highlights, social caption, facts to verify |
 | [Pricing Brief](https://payhip.com/b/7mleY) | Comp math, list price range, confidence level, seller talking points |
 | [Seller Update](https://payhip.com/b/UXnhj) | Weekly showing numbers, buyer feedback patterns, a recommendation and a message to the seller |
+| [Offer Comparison](https://payhip.com/b/sfl8H) | Side-by-side offers, seller net for each, escalation clause math, closing risk and a seller summary |
 | [Check-in Analyzer](https://payhip.com/b/7gC9P) | Adherence and lift tracking, client questions, numbers table |
 | [Intake to Program](https://payhip.com/b/gVueK) | Safety screen and a 4-week starting program |
 
@@ -58,6 +59,10 @@ Sample data, output shortened to fit.
 **Seller Update**
 
 ![Seller Update example](assets/example-seller-update.png)
+
+**Offer Comparison**
+
+![Offer Comparison example](assets/example-offer-comparison.png)
 
 **Check-in Analyzer**
 
