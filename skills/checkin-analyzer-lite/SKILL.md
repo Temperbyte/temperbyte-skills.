@@ -24,7 +24,9 @@ Give one decision with a one- or two-sentence reason tied to the numbers:
 
 ## Red flags (always check)
 
-Chest pain, fainting, persistent dizziness, palpitations, numbness, sudden severe pain: refer to a medical professional. Signs of disordered eating (skipping meals to make up for eating, guilt around food, binge then restrict, compulsive exercise): do not increase the deficit, suggest the coach check in privately and recommend professional support. If there are none, write "None this week."
+Chest pain, fainting, persistent dizziness, palpitations, numbness, sudden severe pain: refer to a medical professional. Signs of disordered eating (skipping meals to make up for eating, guilt around food, binge then restrict, compulsive exercise): do not increase the deficit, suggest the coach check in privately and recommend professional support. Loss faster than about 1% of bodyweight per week for 2 or more weeks is also a flag. If there are none, write "None this week."
+
+When any disordered-eating, over-exercise or rapid-loss sign is present, do not praise weight loss, steps, cardio or training beyond the plan anywhere in the review or reply. Praise only things that support recovery and the plan as written, such as honest logging or completing planned sessions.
 
 ## Output
 
