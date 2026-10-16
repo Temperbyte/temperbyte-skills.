@@ -85,6 +85,10 @@ Sample data, output shortened to fit.
 - [Escalation Clause Math: How to Calculate the Final Price and the Seller's Net](https://payhip.com/Temperbyte/blog/news/escalation-clause-math-how-to-calculate-the-final-price-and-the-seller-s-net)
 - [How to Compare Multiple Offers: Why the Highest Price Is Not Always the Best Offer](https://payhip.com/Temperbyte/blog/news/how-to-compare-multiple-offers-why-the-highest-price-is-not-always-the-best-offer)
 
+## Follow
+
+[Pinterest](https://www.pinterest.com/temperbyte/) · [X](https://x.com/Temperbyte_AI) · [TikTok](https://www.tiktok.com/@temperbyte_skills)
+
 ## License
 
 The lite skills in this repository are MIT licensed. They are tools for professionals and do not replace professional or legal review.
