@@ -78,11 +78,14 @@ For real estate agents:
 
 - [Comps price calculator](https://temperbyte.github.io/comps-price-calculator/): price per square foot for each comp, outliers flagged, the median and a list price range
 - [Price reduction calculator](https://temperbyte.github.io/price-reduction-calculator/): a hold or discuss-price signal from days on market, showings and feedback, plus search bracket math
+- [Appraisal gap calculator](https://temperbyte.github.io/appraisal-gap-calculator/): buyer cash and seller price for every way out of a low appraisal
+- [MLS remarks checker](https://temperbyte.github.io/mls-remarks-checker/): character count and a fair housing word check
 - [Escalation clause calculator](https://temperbyte.github.io/escalation-clause-calculator/): final price and seller net for every offer, including competing escalation clauses
 
 For fitness coaches:
 
 - [Progressive overload calculator](https://temperbyte.github.io/progressive-overload-calculator/): next session's weight and reps with double progression
+- [Training volume calculator](https://temperbyte.github.io/training-volume-calculator/): weekly sets per muscle group from a program
 - [Weight trend calculator](https://temperbyte.github.io/weight-trend-calculator/): weekly averages and rate of change from daily weigh-ins
 
 ## Guides
