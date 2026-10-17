@@ -80,12 +80,14 @@ For real estate agents:
 - [Price reduction calculator](https://temperbyte.github.io/price-reduction-calculator/): a hold or discuss-price signal from days on market, showings and feedback, plus search bracket math
 - [Appraisal gap calculator](https://temperbyte.github.io/appraisal-gap-calculator/): buyer cash and seller price for every way out of a low appraisal
 - [MLS remarks checker](https://temperbyte.github.io/mls-remarks-checker/): character count and a fair housing word check
+- [Months of inventory calculator](https://temperbyte.github.io/months-of-inventory-calculator/): months of supply, absorption rate and the market read
 - [Escalation clause calculator](https://temperbyte.github.io/escalation-clause-calculator/): final price and seller net for every offer, including competing escalation clauses
 
 For fitness coaches:
 
 - [Progressive overload calculator](https://temperbyte.github.io/progressive-overload-calculator/): next session's weight and reps with double progression
 - [Training volume calculator](https://temperbyte.github.io/training-volume-calculator/): weekly sets per muscle group from a program
+- [Client adherence calculator](https://temperbyte.github.io/client-adherence-calculator/): planned vs. done and a hold-or-change call
 - [Weight trend calculator](https://temperbyte.github.io/weight-trend-calculator/): weekly averages and rate of change from daily weigh-ins
 
 ## Guides
