@@ -96,6 +96,8 @@ For fitness coaches:
 
 ## Guides
 
+- [How to Estimate a Seller's Net Proceeds (With a Worked Example)](https://payhip.com/Temperbyte/blog/news/how-to-estimate-a-seller-s-net-proceeds-with-a-worked-example)
+- [RPE and RIR Explained: How to Pick the Right Weight](https://payhip.com/Temperbyte/blog/news/rpe-and-rir-explained-how-to-pick-the-right-weight)
 - [Fair Housing Words to Avoid in Real Estate Listings (and What to Write Instead)](https://payhip.com/Temperbyte/blog/news/fair-housing-words-to-avoid-in-real-estate-listings-and-what-to-write-instead)
 - [How to Price a Listing From Comps: The Median Price-Per-Square-Foot Method](https://payhip.com/Temperbyte/blog/news/how-to-price-a-listing-from-comps-the-median-price-per-square-foot-method)
 - [How to Read a Weekly Weigh-In Trend Without Overreacting](https://payhip.com/Temperbyte/blog/news/how-to-read-a-weekly-weigh-in-trend-without-overreacting)
