@@ -93,6 +93,7 @@ For fitness coaches:
 - [Client capacity calculator](https://temperbyte.github.io/client-capacity-calculator/): how many clients you can take and what faster check-ins free up
 - [Client adherence calculator](https://temperbyte.github.io/client-adherence-calculator/): planned vs. done and a hold-or-change call
 - [Weight trend calculator](https://temperbyte.github.io/weight-trend-calculator/): weekly averages and rate of change from daily weigh-ins
+- [Weight loss rate calculator](https://temperbyte.github.io/weight-loss-rate-calculator/): percent of body weight per week and weeks to a goal weight
 
 ## Guides
 
