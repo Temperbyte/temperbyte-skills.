@@ -39,6 +39,8 @@ The lite skills cover the core job. The full versions do the whole workflow:
 | [Offer Comparison](https://payhip.com/b/sfl8H) | Side-by-side offers, seller net for each, escalation clause math, closing risk and a seller summary |
 | [Check-in Analyzer](https://payhip.com/b/7gC9P) | Adherence and lift tracking, client questions, numbers table |
 | [Intake to Program](https://payhip.com/b/gVueK) | Safety screen and a 4-week starting program |
+| [Program Progression](https://payhip.com/b/gpAwi) | Per-lift progress from a training log, the next 4-week block and a client message |
+| [Coach Content Week](https://payhip.com/b/7fdFU) | A week of Reel scripts, carousels and captions from your notes, with health claims, testimonials and client consent checked |
 
 Or get two skills for your field in one download: [Real Estate Kit](https://payhip.com/b/oAUZm) (Listing Writer + Pricing Brief) · [Coach Kit](https://payhip.com/b/BUi0r) (Intake to Program + Check-in Analyzer)
 
