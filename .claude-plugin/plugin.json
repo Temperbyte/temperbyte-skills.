@@ -1,7 +1,7 @@
 {
   "name": "temperbyte",
-  "description": "Free Claude skills for real estate agents and fitness coaches: listing copy with a fair housing check, pricing briefs from comps, weekly client check-in reviews and a safety screen with a first 4-week program.",
-  "version": "2.0.0",
+  "description": "Free Claude skills for real estate agents and fitness coaches: listing copy with a fair housing check, pricing briefs from comps, offer comparisons, seller updates, weekly client check-in reviews, training block progression, a safety screen with a first program, and a week of coach content.",
+  "version": "2.1.0",
   "author": {
     "name": "Temperbyte",
     "url": "https://github.com/Temperbyte"

@@ -10,6 +10,10 @@ Free Claude skills for real estate agents and fitness coaches. Each skill does o
 | `pricing-brief` | Turns comparable sales into price-per-square-foot math, a suggested list price range with its method shown, a confidence level and seller talking points | [pricing-brief.zip](dist/pricing-brief.zip?raw=true) |
 | `checkin-analyzer` | Reviews a coaching client's weekly check-in: trend math, adherence, a hold or adjust decision, red flags and a draft reply | [checkin-analyzer.zip](dist/checkin-analyzer.zip?raw=true) |
 | `intake-to-program` | Turns a new client's intake into a pre-exercise safety screen, a client summary and a first 4-week program with progression rules | [intake-to-program.zip](dist/intake-to-program.zip?raw=true) |
+| `offer-comparison` | Compares a seller's offers: net to the seller for each, escalation clause math, appraisal and closing risk, what a counter is worth and a seller summary | [offer-comparison.zip](dist/offer-comparison.zip?raw=true) |
+| `seller-update` | Turns a week of showings and buyer feedback into activity numbers, feedback themes, one recommendation and a message to the seller | [seller-update.zip](dist/seller-update.zip?raw=true) |
+| `program-progression` | Reviews a finished training block lift by lift (estimated 1RM change), flags pain and fatigue, and writes the next 4-week block and a client message | [program-progression.zip](dist/program-progression.zip?raw=true) |
+| `coach-content-week` | Turns a coach's notes into a week of video scripts, carousels and captions in their voice, with health claims and client consent checked | [coach-content-week.zip](dist/coach-content-week.zip?raw=true) |
 | `listing-writer-lite` | A shorter version: MLS remarks and headlines with a fair housing check | [listing-writer-lite.zip](dist/listing-writer-lite.zip?raw=true) |
 | `checkin-analyzer-lite` | A shorter version: weekly trend, a hold or adjust decision, red flags and a short reply | [checkin-analyzer-lite.zip](dist/checkin-analyzer-lite.zip?raw=true) |
 
@@ -41,6 +45,14 @@ The source for each skill is in the [`skills/`](skills) folder.
 ## Examples
 
 Sample data, output shortened to fit.
+
+**Seller Update**
+
+![Seller Update example](assets/example-seller-update.png)
+
+**Offer Comparison**
+
+![Offer Comparison example](assets/example-offer-comparison.png)
 
 **Listing Writer**
 
