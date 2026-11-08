@@ -2,12 +2,23 @@
 
 # Temperbyte Skills
 
-Free Claude skills for real estate agents and fitness coaches. Each skill does one job you repeat every week. The lite versions here are cut down from full skills that were tested side by side against plain Claude.
+Free Claude skills for real estate agents and fitness coaches. Each skill does one job you repeat every week. All skills here are free to download and use.
 
 | Skill | What it does | Download |
 |---|---|---|
-| `listing-writer-lite` | Turns rough property notes into MLS remarks and headlines, with a fair housing language check | [listing-writer-lite.zip](dist/listing-writer-lite.zip?raw=true) |
-| `checkin-analyzer-lite` | Reviews a coaching client's weekly check-in with trend math, a hold/adjust decision and red flags | [checkin-analyzer-lite.zip](dist/checkin-analyzer-lite.zip?raw=true) |
+| `listing-writer` | Turns rough property notes into headlines, MLS public remarks, a website description, feature highlights and a social caption, with a fair housing check and a list of facts to verify | [listing-writer.zip](dist/listing-writer.zip?raw=true) |
+| `pricing-brief` | Turns comparable sales into price-per-square-foot math, a suggested list price range with its method shown, a confidence level and seller talking points | [pricing-brief.zip](dist/pricing-brief.zip?raw=true) |
+| `checkin-analyzer` | Reviews a coaching client's weekly check-in: trend math, adherence, a hold or adjust decision, red flags and a draft reply | [checkin-analyzer.zip](dist/checkin-analyzer.zip?raw=true) |
+| `intake-to-program` | Turns a new client's intake into a pre-exercise safety screen, a client summary and a first 4-week program with progression rules | [intake-to-program.zip](dist/intake-to-program.zip?raw=true) |
+| `listing-writer-lite` | A shorter version: MLS remarks and headlines with a fair housing check | [listing-writer-lite.zip](dist/listing-writer-lite.zip?raw=true) |
+| `checkin-analyzer-lite` | A shorter version: weekly trend, a hold or adjust decision, red flags and a short reply | [checkin-analyzer-lite.zip](dist/checkin-analyzer-lite.zip?raw=true) |
+
+## Before you use them
+
+- **Check the output.** Every skill ends its answer with a reminder to check numbers, facts and recommendations. The skills draft; you decide.
+- **Leave personal data out.** Use a client code or first initial instead of a name, and leave out contact details. The coaching skills only need yes or no answers to the screening questions, not diagnoses or medication names.
+- **Not professional advice.** These skills are not medical, legal or financial advice, and they do not guarantee compliance with fair housing or other rules.
+- Temperbyte is not affiliated with or endorsed by Anthropic. Claude is a trademark of Anthropic PBC.
 
 ## How to install
 
@@ -16,35 +27,16 @@ Free Claude skills for real estate agents and fitness coaches. Each skill does o
 1. Download the `.zip` file for the skill you want. Don't unzip it.
 2. In Claude, go to **Settings > Capabilities** and turn on **Code execution and file creation**.
 3. Go to **Customize > Skills**, click **+**, then **Create skill > Upload a skill**, and upload the file. Make sure the skill is toggled on.
-4. Start a new chat and paste your notes or check-in. Claude uses the skill automatically. If it doesn't, start your message with the skill's name, for example `Use listing-writer-lite:`.
+4. Start a new chat and paste your notes or check-in. Claude uses the skill automatically. If it doesn't, start your message with the skill's name, for example `Use listing-writer:`.
 
-**In Claude Code**, install both lite skills as a plugin:
+**In Claude Code**, install all the skills as a plugin:
 
 ```
 /plugin marketplace add Temperbyte/temperbyte-skills.
-/plugin install temperbyte-lite@temperbyte
+/plugin install temperbyte@temperbyte
 ```
 
 The source for each skill is in the [`skills/`](skills) folder.
-
-## Full versions
-
-The lite skills cover the core job. The full versions do the whole workflow:
-
-| Full skill | Adds |
-|---|---|
-| [Listing Writer](https://payhip.com/b/60TYy) | Website description, feature highlights, social caption, facts to verify |
-| [Pricing Brief](https://payhip.com/b/7mleY) | Comp math, list price range, confidence level, seller talking points |
-| [Seller Update](https://payhip.com/b/UXnhj) | Weekly showing numbers, buyer feedback patterns, a recommendation and a message to the seller |
-| [Offer Comparison](https://payhip.com/b/sfl8H) | Side-by-side offers, seller net for each, escalation clause math, closing risk and a seller summary |
-| [Check-in Analyzer](https://payhip.com/b/7gC9P) | Adherence and lift tracking, client questions, numbers table |
-| [Intake to Program](https://payhip.com/b/gVueK) | Safety screen and a 4-week starting program |
-| [Program Progression](https://payhip.com/b/gpAwi) | Per-lift progress from a training log, the next 4-week block and a client message |
-| [Coach Content Week](https://payhip.com/b/7fdFU) | A week of Reel scripts, carousels and captions from your notes, with health claims, testimonials and client consent checked |
-
-Or get two skills for your field in one download: [Real Estate Kit](https://payhip.com/b/oAUZm) (Listing Writer + Pricing Brief) · [Coach Kit](https://payhip.com/b/BUi0r) (Intake to Program + Check-in Analyzer)
-
-All products: [payhip.com/Temperbyte](https://payhip.com/Temperbyte)
 
 ## Examples
 
@@ -57,14 +49,6 @@ Sample data, output shortened to fit.
 **Pricing Brief**
 
 ![Pricing Brief example](assets/example-pricing-brief.png)
-
-**Seller Update**
-
-![Seller Update example](assets/example-seller-update.png)
-
-**Offer Comparison**
-
-![Offer Comparison example](assets/example-offer-comparison.png)
 
 **Check-in Analyzer**
 
@@ -113,4 +97,4 @@ For fitness coaches:
 
 ## License
 
-The lite skills in this repository are MIT licensed. They are tools for professionals and do not replace professional or legal review.
+The skills in this repository are MIT licensed. They are tools for professionals and do not replace professional, medical or legal review.

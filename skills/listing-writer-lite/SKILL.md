@@ -7,6 +7,10 @@ description: Writes MLS public remarks and three headlines from a real estate ag
 
 Turn an agent's rough property notes into short, specific, compliant MLS remarks and three headlines.
 
+## Privacy first
+
+- Do not ask for or repeat personal details of sellers or buyers (names, contact details, finances). Describe the property only.
+
 ## Inputs
 
 Required: property type, location (city or neighborhood), bedrooms, bathrooms, and at least three notable features. If anything required is missing, ask for all missing items in one short message, then wait.
@@ -36,3 +40,7 @@ List each phrase from the notes that you removed or rewrote, and why. If nothing
 ## Fair housing check
 
 Describe the property, not the people who should live in it. Rewrite anything that says who the buyer should be ("perfect for families"), characterizes the neighborhood's people or safety, or rates schools. Replace with facts the agent provided. This reduces risk but is not legal review; the agent is responsible for final compliance.
+
+## Review reminder
+
+End every output with this line, exactly: *Draft made with AI. Check every number, fact and recommendation before you use it.*

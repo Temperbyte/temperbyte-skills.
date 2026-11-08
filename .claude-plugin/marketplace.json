@@ -1,12 +1,15 @@
 {
   "name": "temperbyte",
-  "description": "Claude skills for real estate agents and fitness coaches.",
-  "owner": { "name": "Temperbyte", "url": "https://github.com/Temperbyte" },
+  "description": "Free Claude skills for real estate agents and fitness coaches.",
+  "owner": {
+    "name": "Temperbyte",
+    "url": "https://github.com/Temperbyte"
+  },
   "plugins": [
     {
-      "name": "temperbyte-lite",
+      "name": "temperbyte",
       "source": "./",
-      "description": "Free lite skills: listing-writer-lite (MLS remarks with a fair housing check) and checkin-analyzer-lite (weekly client check-in review)."
+      "description": "All free Temperbyte skills: listing-writer, pricing-brief, checkin-analyzer, intake-to-program, plus the lite versions."
     }
   ]
 }

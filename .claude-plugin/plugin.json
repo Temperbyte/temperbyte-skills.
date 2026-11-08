@@ -1,10 +1,20 @@
 {
-  "name": "temperbyte-lite",
-  "description": "Free Claude skills for real estate agents and fitness coaches: listing copy with a fair housing check, and weekly client check-in reviews.",
-  "version": "1.1.0",
-  "author": { "name": "Temperbyte", "url": "https://github.com/Temperbyte" },
-  "homepage": "https://payhip.com/Temperbyte",
+  "name": "temperbyte",
+  "description": "Free Claude skills for real estate agents and fitness coaches: listing copy with a fair housing check, pricing briefs from comps, weekly client check-in reviews and a safety screen with a first 4-week program.",
+  "version": "2.0.0",
+  "author": {
+    "name": "Temperbyte",
+    "url": "https://github.com/Temperbyte"
+  },
+  "homepage": "https://temperbyte.github.io/",
   "repository": "https://github.com/Temperbyte/temperbyte-skills.",
   "license": "MIT",
-  "keywords": ["real-estate", "realtor", "fair-housing", "fitness", "personal-trainer", "coaching"]
+  "keywords": [
+    "real-estate",
+    "realtor",
+    "fair-housing",
+    "fitness",
+    "personal-trainer",
+    "coaching"
+  ]
 }
